@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I am Jennifer Sandoval
+<hr>
+
+Engineering student in bioinformatics at Universidad del Valle de Guatemala
+
+- 📫 How to reach me: jenni.sandoval.28@gmail.com
 
 <!--
 **JennsiS/JennsiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

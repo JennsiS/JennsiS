@@ -5,6 +5,8 @@ Engineering student in bioinformatics at Universidad del Valle de Guatemala
 
 - 📫 How to reach me: jenni.sandoval.28@gmail.com
 
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennsiS&langs_count=8" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennsiS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

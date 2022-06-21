@@ -7,10 +7,10 @@ Engineering student in bioinformatics at Universidad del Valle de Guatemala
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennsiS&langs_count=5&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennsiS&langs_count=5&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JennsiS&show_icons=true&line_height=27&include_all_commits=true&theme=merko" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JennsiS&show_icons=true&line_height=27&include_all_commits=true&theme=radical" alt="My github stats" />
 </a>
 
 

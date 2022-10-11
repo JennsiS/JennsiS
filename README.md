@@ -14,7 +14,7 @@
 <a href="https://www.r-project.org/" target="_blank"><img align="left" alt="R" height ="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"></a>
 <a href="https://www.ruby-lang.org/es/" target="_blank"><img align="left" alt="Ruby" height ="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="Javascript" height ="42px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></a>  
-
+<br/> 
 
 
 ### GitHub Stats

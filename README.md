@@ -1,7 +1,7 @@
 ### Hi, I am Jennifer Sandoval ✨
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fire+code&pause=1000&color=F7093F&width=435&lines=Bioinformatics+engineer+and+Junior+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fire+code&pause=1000&color=F7093F&width=435&lines=Bioinformatics+engineer+;Junior+web+developer)](https://git.io/typing-svg)
 
 Engineering student in bioinformatics at Universidad del Valle de Guatemala
 

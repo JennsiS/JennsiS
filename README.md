@@ -12,7 +12,7 @@ jenni.sandoval.28@gmail.com
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,vue,azure,react,bash,bootstrap,linux,postgres,py,r,rails,ruby,sass)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,vue,azure,react,bash,bootstrap,linux,postgres,py,r,rails,ruby,sass)](https://skillicons.dev)
 
 <!--
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>

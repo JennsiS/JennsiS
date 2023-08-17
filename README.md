@@ -23,10 +23,5 @@ jenni.sandoval.28@gmail.com
 <br/> 
 -->
 
-### GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennsiS&langs_count=5&theme=radical" />
-</a>
-
 
 

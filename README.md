@@ -16,7 +16,7 @@
 ### Learning:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,express,flutter,dart,firebase" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,express,flutter,dart,firebase,flask" />
   </a>
 </p>
 

@@ -9,14 +9,14 @@
 ### Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,vue,ts,react,bootstrap,azure,aws,bash,linux,postgres,postman,sqlite,py,r,rails,ruby,nodejs,nextjs,docker,md,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,vue,ts,react,bootstrap,azure,aws,bash,linux,postgres,postman,sqlite,py,flask,r,rails,ruby,nodejs,nextjs,docker,md,git,github" />
   </a>
 </p>
 
 ### Learning:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,express,flutter,dart,firebase,flask" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,express,flutter,dart,firebase" />
   </a>
 </p>
 
